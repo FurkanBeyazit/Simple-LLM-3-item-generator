@@ -19,7 +19,7 @@ This project involves creating a simple text generator using a language model, T
    - **Artwork (예술 작품):** The top 3 most expensive pieces of artwork, highlighting valuable and unique pieces. (가장 비싼 상위 3개의 예술 작품을 나열하여 귀중하고 독특한 작품을 강조합니다.)
    - **Sports Cars (스포츠카):** The top 3 most expensive sports cars, featuring high-performance vehicles. (가장 비싼 상위 3개의 스포츠카를 나열하여 고성능 차량을 특징으로 합니다.)
    - **Fashion Bags (패션 가방):** The top 3 most expensive fashion bags, including designer collections. (디자이너 컬렉션을 포함하여 가장 비싼 상위 3개의 패션 가방을 나열합니다.)
-![watch](/watch.png)<br>
+![watch](/amk.png)<br>
 ![car](/car.png)<br>
 ![art](/art.png)<br>
 
