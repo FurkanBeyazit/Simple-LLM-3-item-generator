@@ -7,7 +7,7 @@
 ### Project Overview (프로젝트 개요)
 
 This project involves creating a simple text generator using a language model, TinyLlama-1.1B-Chat-v1.0, to list the top 3 most expensive products in four categories: Watches, Artwork, Sports Cars, and Fashion Bags. (이 프로젝트는 TinyLlama-1.1B-Chat-v1.0 모델을 사용하여 시계, 예술 작품, 스포츠카 및 패션 가방의 네 가지 카테고리에서 가장 비싼 상위 3개 제품을 나열하는 간단한 텍스트 생성기를 만드는 것입니다.) The application is developed using Streamlit, providing an interactive interface for users to explore these categories. (이 애플리케이션은 Streamlit을 사용하여 개발되었으며, 사용자가 이 카테고리를 탐색할 수 있는 인터랙티브한 인터페이스를 제공합니다.)<br>
-![dasboard](/1.png)
+![dasboard](/dashboard.png)
 ---
 
 ### Key Points (핵심 사항)
